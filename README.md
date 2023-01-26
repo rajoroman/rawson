@@ -1,8 +1,9 @@
 # Entrega prueba Rawson
 
-## Ejecutable JAR
+## A. Ejecutable JAR
 ### Se encuentra en la carpeta jar del repositorio
 
+## B. JSON para pruebas
 ## 1.Json para prueba, se puede usar el siguiente JSON para probar la funcionalidad
 
 {
